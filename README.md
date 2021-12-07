@@ -22,5 +22,5 @@ The data come from https://documentation.alphasoftware.com/pages/GettingStarted/
 
 ### Note
 
-This Northwind version comprises more tables, coukd be added some time in the future: 
+This Northwind version comprises more tables, could be added some time in the future: 
 https://docs.yugabyte.com/latest/sample-data/northwind/
